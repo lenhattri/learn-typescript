@@ -1,0 +1,22 @@
+{
+  "name": "learn-typescript2",
+  "version": "1.0.0",
+  "description": "hoc typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenhattri/learn-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "LE NHAT TRI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenhattri/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/lenhattri/learn-typescript#readme"
+}
